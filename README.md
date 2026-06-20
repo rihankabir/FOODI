@@ -12,7 +12,7 @@ A modern, responsive restaurant landing page built with HTML, CSS, Bootstrap, Ja
 
 ## ✨ Live Demo
 
-👉 https://your-live-demo-link.com
+👉 https://rihankabir.github.io/FOODI/
 
 ---
 
