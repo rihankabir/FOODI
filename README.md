@@ -1,4 +1,4 @@
-<h1 align="center">🍽️ Foodie Restaurant Website</h1>
+<h1 align="center">🍽️ Foodi Restaurant Website</h1>
 
 <p align="center">
 A modern, responsive restaurant landing page built with HTML, CSS, Bootstrap, JavaScript & jQuery.
